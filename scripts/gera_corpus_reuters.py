@@ -1,3 +1,11 @@
+ #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Apr  7 18:04:46 2020
+
+@author: arthurrizzo
+"""
+
 import json
 from nltk.corpus import reuters
 from argparse import ArgumentParser
